@@ -8,6 +8,20 @@
       "expo-router"
     ],
     "name": "jobs",
-    "slug": "jobs"
+    "slug": "jobgiver",
+    "extra": {
+      "eas": {
+        "projectId": "1d6e1a36-d88b-4004-86d2-978b473629a7"
+      }
+    },
+    "owner": "chichiboyhere",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/1d6e1a36-d88b-4004-86d2-978b473629a7"
+    },
+    "android": {},
+    "ios": {}
   }
 }
